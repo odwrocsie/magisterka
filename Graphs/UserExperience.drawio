@@ -1,14 +1,44 @@
-<mxfile host="app.diagrams.net" modified="2022-03-19T19:26:48.185Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" version="16.5.5" etag="PUHHrTaErurKai9va4pl" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-19T21:23:46.903Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="eAgLykFoRvU3C9NgOemP" version="17.1.3" type="github">
   <diagram id="OUmg8Dt7FHLVMEr_i9J4" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="7KsdhDn-v_BrlLQZp797-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="710" y="360" width="30" height="60" as="geometry" />
+        <mxCell id="gnmEOiwF-h2IBnCFjIaY-1" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;strokeColor=#CC0066;rotation=20;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="100" y="190" width="130" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="7KsdhDn-v_BrlLQZp797-2" value="fvvgf" style="shape=xor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="980" y="270" width="60" height="80" as="geometry" />
+        <mxCell id="gnmEOiwF-h2IBnCFjIaY-10" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;strokeColor=#CC0066;rotation=20;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="120" y="210" width="130" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="gnmEOiwF-h2IBnCFjIaY-11" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;strokeColor=#CC0066;rotation=20;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="140" y="230" width="130" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="gnmEOiwF-h2IBnCFjIaY-12" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;strokeColor=#CC0066;rotation=20;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="80" y="170" width="130" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="gnmEOiwF-h2IBnCFjIaY-15" value="ś  c  i  e  ż  k  i" style="swimlane;dashed=1;strokeColor=#B3B3B3;strokeWidth=2;fillColor=none;opacity=30;verticalAlign=middle;spacingTop=2;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="160" width="370" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="gnmEOiwF-h2IBnCFjIaY-7" value="&lt;h1&gt;group 1 &amp;nbsp;/ &lt;i&gt;m u z y k a&lt;/i&gt;&lt;/h1&gt;&lt;p&gt;-&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;ścieżki z muzyką, na początek max 3&lt;/p&gt;" style="text;html=1;strokeColor=#B3B3B3;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;align=center;" vertex="1" parent="gnmEOiwF-h2IBnCFjIaY-15">
+          <mxGeometry x="40" y="50" width="290" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gnmEOiwF-h2IBnCFjIaY-9" value="&lt;h1&gt;group 2&amp;nbsp; / &lt;i&gt;o b i e k t y&lt;/i&gt;&lt;/h1&gt;&lt;p style=&quot;text-align: left&quot;&gt;group 2.1 &lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;głosy&lt;/p&gt;&lt;p style=&quot;text-align: left&quot;&gt;group 2.2 &lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;efekty dźwiękowe&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#B3B3B3;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;align=center;" vertex="1" parent="gnmEOiwF-h2IBnCFjIaY-15">
+          <mxGeometry x="40" y="150" width="290" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="gnmEOiwF-h2IBnCFjIaY-13" value="&lt;h1&gt;group 3&amp;nbsp; / &lt;i&gt;a t m o s f e r y&lt;/i&gt;&lt;/h1&gt;&lt;p&gt;dźwięki tła&lt;/p&gt;" style="text;html=1;strokeColor=#B3B3B3;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;align=center;" vertex="1" parent="gnmEOiwF-h2IBnCFjIaY-15">
+          <mxGeometry x="20" y="280" width="330" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gnmEOiwF-h2IBnCFjIaY-16" value="M    I    K    S" style="swimlane;dashed=1;strokeColor=#B3B3B3;strokeWidth=2;fillColor=none;opacity=30;verticalAlign=middle;spacingTop=2;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="780" y="160" width="370" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="gnmEOiwF-h2IBnCFjIaY-17" value="" style="text;html=1;strokeColor=#B3B3B3;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;align=center;" vertex="1" parent="gnmEOiwF-h2IBnCFjIaY-16">
+          <mxGeometry x="40" y="50" width="290" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gnmEOiwF-h2IBnCFjIaY-18" value="&lt;h1&gt;group 2&amp;nbsp; / &lt;i&gt;o b i e k t y&lt;/i&gt;&lt;/h1&gt;&lt;p style=&quot;text-align: left&quot;&gt;group 2.1 &lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;głosy&lt;/p&gt;&lt;p style=&quot;text-align: left&quot;&gt;group 2.2 &lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;efekty dźwiękowe&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#B3B3B3;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;align=center;" vertex="1" parent="gnmEOiwF-h2IBnCFjIaY-16">
+          <mxGeometry x="40" y="150" width="290" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="gnmEOiwF-h2IBnCFjIaY-19" value="&lt;h1&gt;group 3&amp;nbsp; / &lt;i&gt;a t m o s f e r y&lt;/i&gt;&lt;/h1&gt;&lt;p&gt;dźwięki tła&lt;/p&gt;" style="text;html=1;strokeColor=#B3B3B3;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;align=center;" vertex="1" parent="gnmEOiwF-h2IBnCFjIaY-16">
+          <mxGeometry x="20" y="280" width="330" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
