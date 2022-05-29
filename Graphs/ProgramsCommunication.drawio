@@ -1,54 +1,54 @@
-<mxfile host="app.diagrams.net" modified="2022-03-19T20:31:14.052Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" version="17.1.3" etag="JXc98EG3cIGTxydmZQ9C" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-29T11:08:52.745Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="At-r0weQh91UL60kvLo2" version="18.1.3" type="github">
   <diagram id="JhOW4tW26YTDBx762dY4" name="Page-1">
-    <mxGraphModel dx="1422" dy="1662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="1673" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="GEjsM8yhfAbpJjt25GVM-7" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://2.bp.blogspot.com/-V6TCcpkfDg0/Xh3FxFzEC9I/AAAAAAAAGfc/-YV_58Cmu9Y4DyNfGuIr_wQrqoGjR8gEACLcBGAsYHQ/s1600/reaper.png;" vertex="1" parent="1">
-          <mxGeometry x="820" y="-30" width="372.41" height="210" as="geometry" />
+        <mxCell id="GEjsM8yhfAbpJjt25GVM-7" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://2.bp.blogspot.com/-V6TCcpkfDg0/Xh3FxFzEC9I/AAAAAAAAGfc/-YV_58Cmu9Y4DyNfGuIr_wQrqoGjR8gEACLcBGAsYHQ/s1600/reaper.png;" parent="1" vertex="1">
+          <mxGeometry x="790" y="40" width="372.41" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="GEjsM8yhfAbpJjt25GVM-8" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=http://assets.stickpng.com/images/58482b92cef1014c0b5e4a2d.png;" vertex="1" parent="1">
-          <mxGeometry x="260" y="100" width="175.08" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="GEjsM8yhfAbpJjt25GVM-10" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://devblogs.microsoft.com/visualstudio/wp-content/uploads/sites/4/2019/01/visualstudio-1.png;" vertex="1" parent="1">
+        <mxCell id="GEjsM8yhfAbpJjt25GVM-10" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://devblogs.microsoft.com/visualstudio/wp-content/uploads/sites/4/2019/01/visualstudio-1.png;" parent="1" vertex="1">
           <mxGeometry x="251.48" y="420" width="192.12" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="GEjsM8yhfAbpJjt25GVM-13" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static.cdnlogo.com/logos/c/27/c.svg;" vertex="1" parent="1">
+        <mxCell id="GEjsM8yhfAbpJjt25GVM-13" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static.cdnlogo.com/logos/c/27/c.svg;" parent="1" vertex="1">
           <mxGeometry x="300" y="570" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="GEjsM8yhfAbpJjt25GVM-18" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png;" vertex="1" parent="1">
-          <mxGeometry x="971.21" y="330" width="70" height="70" as="geometry" />
+        <mxCell id="GEjsM8yhfAbpJjt25GVM-18" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png;" parent="1" vertex="1">
+          <mxGeometry x="900" y="450" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="GEjsM8yhfAbpJjt25GVM-19" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.anysoft.pl/images/items/4636/pycharm-logo_big.png;" vertex="1" parent="1">
-          <mxGeometry x="951.21" y="195" width="110" height="110" as="geometry" />
+        <mxCell id="GEjsM8yhfAbpJjt25GVM-19" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.anysoft.pl/images/items/4636/pycharm-logo_big.png;" parent="1" vertex="1">
+          <mxGeometry x="880" y="330" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="GEjsM8yhfAbpJjt25GVM-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GEjsM8yhfAbpJjt25GVM-8" target="GEjsM8yhfAbpJjt25GVM-10">
+        <mxCell id="GEjsM8yhfAbpJjt25GVM-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="GEjsM8yhfAbpJjt25GVM-10" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="700" y="420" as="sourcePoint" />
+            <mxPoint x="347.53999999999996" y="280" as="sourcePoint" />
             <mxPoint x="750" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GEjsM8yhfAbpJjt25GVM-23" value="&lt;h1&gt;1&lt;/h1&gt;&lt;p&gt;Informacja o zmianie zostaje przekazana do kodu, który obsługuje grę w UNITY&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="GEjsM8yhfAbpJjt25GVM-23" value="&lt;h1&gt;1&lt;/h1&gt;&lt;p&gt;Użytkownik wybiera parametry panoramy poprzez kontroler załączony do zestawu Oculusa&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="90" y="290" width="190" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="GEjsM8yhfAbpJjt25GVM-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="GEjsM8yhfAbpJjt25GVM-24">
+        <mxCell id="GEjsM8yhfAbpJjt25GVM-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="GEjsM8yhfAbpJjt25GVM-24" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="780" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GEjsM8yhfAbpJjt25GVM-24" value="&lt;h1&gt;2&lt;/h1&gt;&lt;p&gt;Każde działanie ma przypisaną zmienną, która jest triggerem do wywołania zmian w programie REAPER&amp;nbsp;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="GEjsM8yhfAbpJjt25GVM-24" value="&lt;h1&gt;2&lt;/h1&gt;&lt;p&gt;Każde działanie ma przypisaną zmienną, która&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;wyzwala uruchomienie protokułu komunikacji&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="420" y="490" width="190" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="GEjsM8yhfAbpJjt25GVM-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="GEjsM8yhfAbpJjt25GVM-26" target="GEjsM8yhfAbpJjt25GVM-27">
+        <mxCell id="GEjsM8yhfAbpJjt25GVM-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="GEjsM8yhfAbpJjt25GVM-26" target="GEjsM8yhfAbpJjt25GVM-27" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="785" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GEjsM8yhfAbpJjt25GVM-26" value="&lt;h1&gt;3&lt;/h1&gt;&lt;p&gt;Obsługa zmiennych zdefiniowanych w celu komunikacji z UNITY&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="GEjsM8yhfAbpJjt25GVM-26" value="&lt;h1&gt;3&lt;/h1&gt;&lt;p&gt;Przekazanie listy argumentów, które dokonują zmian w kodzie programu Reaper&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="690" y="305" width="190" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="GEjsM8yhfAbpJjt25GVM-27" value="&lt;h1&gt;4&lt;/h1&gt;&lt;p&gt;Narzędzie &lt;i&gt;reapy &lt;/i&gt;umożliwia komunikację z ReaScriptem odpowiedzialnym za edytowanie, odpalanie, debugowanie skryptów w REAPERZE&lt;/p&gt;&lt;p&gt;Praca twórcza: narzędzie &lt;i&gt;surreapy &lt;/i&gt;które umożliwia obsługę wtyczek dla dźwięku przestrzennego&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="690" y="20" width="190" height="210" as="geometry" />
+        <mxCell id="GEjsM8yhfAbpJjt25GVM-27" value="&lt;h1&gt;4&lt;/h1&gt;&lt;p&gt;Zmiana parametrów panoramy przestrzennej dla wtyczki &lt;i&gt;StereoEncoder&lt;/i&gt;&amp;nbsp; za pośrednictwem biblioteki Reapy&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="690" y="60" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="_27MPrZRtivtM2EOVzUT-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://logos-world.net/wp-content/uploads/2021/02/Oculus-Symbol.png;" vertex="1" parent="1">
+          <mxGeometry x="220" y="110" width="266.21" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
