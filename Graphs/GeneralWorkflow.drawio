@@ -1,1 +1,92 @@
-<mxfile host="app.diagrams.net" modified="2022-05-15T07:29:02.390Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" version="17.4.6" etag="WPBSwymWAycqh1skgfa-" type="github"><diagram id="IFhUjtg7f8kieYkGEWyi">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-29T09:11:32.925Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="NK4X7eAZun62a2wKhuSP" version="18.1.1" type="github">
+  <diagram id="IFhUjtg7f8kieYkGEWyi" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="65AyYlvozGmXVipSZIa_-2" value="OCULUS" style="swimlane;startSize=20;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="120" y="160" width="470" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="65AyYlvozGmXVipSZIa_-3" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" parent="65AyYlvozGmXVipSZIa_-2" source="65AyYlvozGmXVipSZIa_-5" target="65AyYlvozGmXVipSZIa_-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="65AyYlvozGmXVipSZIa_-4" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" parent="65AyYlvozGmXVipSZIa_-2" source="65AyYlvozGmXVipSZIa_-5" target="65AyYlvozGmXVipSZIa_-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Wspierane silniki gier" treeRoot="1" id="65AyYlvozGmXVipSZIa_-5">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="65AyYlvozGmXVipSZIa_-2">
+            <mxGeometry x="157.5" y="40" width="155" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="65AyYlvozGmXVipSZIa_-6" value="&lt;b&gt;Unity 3D&lt;/b&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};strokeColor=#000000;" vertex="1" parent="65AyYlvozGmXVipSZIa_-2">
+          <mxGeometry x="20" y="140" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="65AyYlvozGmXVipSZIa_-7" value="Unreal Engine" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="65AyYlvozGmXVipSZIa_-2">
+          <mxGeometry x="130" y="140" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="65AyYlvozGmXVipSZIa_-8" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="65AyYlvozGmXVipSZIa_-2" target="65AyYlvozGmXVipSZIa_-9" source="65AyYlvozGmXVipSZIa_-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="100" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="210" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="65AyYlvozGmXVipSZIa_-9" value="Native Development" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="65AyYlvozGmXVipSZIa_-2">
+          <mxGeometry x="240" y="140" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="65AyYlvozGmXVipSZIa_-10" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" parent="65AyYlvozGmXVipSZIa_-2" target="65AyYlvozGmXVipSZIa_-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="120" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="330" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="65AyYlvozGmXVipSZIa_-11" value="Web Platform" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="65AyYlvozGmXVipSZIa_-2">
+          <mxGeometry x="350" y="140" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="65AyYlvozGmXVipSZIa_-12" value="DAW / Reaper" style="swimlane;startSize=20;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="760" y="160" width="420" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="65AyYlvozGmXVipSZIa_-13" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" parent="65AyYlvozGmXVipSZIa_-12" source="65AyYlvozGmXVipSZIa_-15" target="65AyYlvozGmXVipSZIa_-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="65AyYlvozGmXVipSZIa_-14" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" parent="65AyYlvozGmXVipSZIa_-12" source="65AyYlvozGmXVipSZIa_-15" target="65AyYlvozGmXVipSZIa_-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="ReaScript" treeRoot="1" id="65AyYlvozGmXVipSZIa_-15">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};strokeColor=#000000;" vertex="1" parent="65AyYlvozGmXVipSZIa_-12">
+            <mxGeometry x="150" y="40" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="65AyYlvozGmXVipSZIa_-16" value="EEL2" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};strokeColor=#000000;" vertex="1" parent="65AyYlvozGmXVipSZIa_-12">
+          <mxGeometry x="20" y="140" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="65AyYlvozGmXVipSZIa_-17" value="Lua" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};strokeColor=#000000;" vertex="1" parent="65AyYlvozGmXVipSZIa_-12">
+          <mxGeometry x="160" y="140" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="65AyYlvozGmXVipSZIa_-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="65AyYlvozGmXVipSZIa_-12" source="65AyYlvozGmXVipSZIa_-20" target="65AyYlvozGmXVipSZIa_-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="65AyYlvozGmXVipSZIa_-20" value="Python" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};strokeColor=#000000;" vertex="1" parent="65AyYlvozGmXVipSZIa_-12">
+          <mxGeometry x="300" y="140" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="65AyYlvozGmXVipSZIa_-27" value="komunikacja &lt;i&gt;python / unity C++&lt;/i&gt;&amp;nbsp;" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=classicThin;endFill=1;dashed=1;startArrow=classicThin;startFill=1;" edge="1" parent="1" source="65AyYlvozGmXVipSZIa_-25" target="65AyYlvozGmXVipSZIa_-20">
+          <mxGeometry x="0.0962" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1110" y="530" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="65AyYlvozGmXVipSZIa_-25" value="C++" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+          <mxGeometry x="140" y="500" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="65AyYlvozGmXVipSZIa_-26" value="natywny język oprogramowania" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classicThin;endFill=1;" edge="1" parent="1" source="65AyYlvozGmXVipSZIa_-6" target="65AyYlvozGmXVipSZIa_-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
