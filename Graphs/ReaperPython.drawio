@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-17T20:10:29.787Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="fqkHqy8uNfhUBZ_9_xPG" version="20.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-17T20:18:05.540Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="ZMFhXbtHcoTsKj9el14r" version="20.0.0" type="github">
   <diagram id="tZ6HXYHqEJNceK6MpMHH" name="Page-1">
-    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="2031" dy="1134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -141,7 +141,7 @@
           <mxGeometry x="30" y="250" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="iRasUdCwle3iSb4hT5Id-100" value="Reaper" style="swimlane;startSize=20;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};strokeColor=#B3B3B3;" vertex="1" parent="1">
-          <mxGeometry x="140" y="930" width="980" height="130" as="geometry" />
+          <mxGeometry x="140" y="930" width="730" height="140" as="geometry" />
         </mxCell>
         <mxCell id="iRasUdCwle3iSb4hT5Id-121" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://millennialmind.co/wp-content/uploads/2019/05/reaper.png;" vertex="1" parent="iRasUdCwle3iSb4hT5Id-100">
           <mxGeometry x="30" y="50" width="70" height="70" as="geometry" />
@@ -157,6 +157,12 @@
         </mxCell>
         <mxCell id="iRasUdCwle3iSb4hT5Id-125" value="(...)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Helvetica;fontSize=11;" vertex="1" parent="iRasUdCwle3iSb4hT5Id-122">
           <mxGeometry y="60" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="iRasUdCwle3iSb4hT5Id-126" value="Azimuth Angle / StereoEncoder" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Courier New;" vertex="1" parent="iRasUdCwle3iSb4hT5Id-100">
+          <mxGeometry x="410" y="55" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iRasUdCwle3iSb4hT5Id-127" value="Elevation Angle / StereoEncoder" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Courier New;" vertex="1" parent="iRasUdCwle3iSb4hT5Id-100">
+          <mxGeometry x="410" y="85" width="260" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
