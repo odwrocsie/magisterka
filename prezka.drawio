@@ -1,1 +1,77 @@
-<mxfile host="app.diagrams.net" modified="2022-06-26T18:02:15.235Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" version="20.0.1" etag="9QsO8ZqMAOZOaopuAXAZ" type="github"><diagram id="O83LMJJlKoc3-Qri29jK">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-26T18:42:13.153Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="OQy8jIgK3vJB9PlWH39r" version="20.0.1" type="github">
+  <diagram id="O83LMJJlKoc3-Qri29jK" name="Page-1">
+    <mxGraphModel dx="1422" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yyPlnn2RpIudn9ofHAkp-65" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=none;dashed=1;strokeColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="50" y="70" width="1190" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="yyPlnn2RpIudn9ofHAkp-20" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/5969/5969294.png;fontFamily=Courier New;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="140" y="120" width="111" height="111" as="geometry" />
+        </mxCell>
+        <mxCell id="yyPlnn2RpIudn9ofHAkp-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="1" source="yyPlnn2RpIudn9ofHAkp-21" target="yyPlnn2RpIudn9ofHAkp-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;font style=&quot;font-size: 17px;&quot;&gt;Spatial Sound Interface&amp;nbsp;&lt;/font&gt;" treeRoot="1" id="yyPlnn2RpIudn9ofHAkp-21">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};strokeColor=#999999;fontFamily=Courier New;fontSize=14;" vertex="1" parent="1">
+            <mxGeometry x="80" y="420" width="212.5" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="yyPlnn2RpIudn9ofHAkp-47" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png;fontFamily=Courier New;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="570" y="120" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="yyPlnn2RpIudn9ofHAkp-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;fontSize=17;" edge="1" parent="1" source="yyPlnn2RpIudn9ofHAkp-52" target="yyPlnn2RpIudn9ofHAkp-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;span style=&quot;font-style: italic; font-weight: 700; font-size: 17px;&quot;&gt;ReaperConnector.py&lt;/span&gt;" treeRoot="1" id="yyPlnn2RpIudn9ofHAkp-52">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};strokeColor=#999999;fontFamily=Courier New;fontSize=17;" vertex="1" parent="1">
+            <mxGeometry x="410" y="420" width="212.5" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="yyPlnn2RpIudn9ofHAkp-54" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://millennialmind.co/wp-content/uploads/2019/05/reaper.png;fontFamily=Courier New;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="110" width="110" height="110" as="geometry" />
+        </mxCell>
+        <UserObject label="REAPER" treeRoot="1" id="yyPlnn2RpIudn9ofHAkp-55">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};strokeColor=#999999;fontFamily=Courier New;fontSize=17;" vertex="1" parent="1">
+            <mxGeometry x="980" y="420" width="212.5" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="yyPlnn2RpIudn9ofHAkp-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=2;fontSize=17;" edge="1" parent="1" source="yyPlnn2RpIudn9ofHAkp-60" target="yyPlnn2RpIudn9ofHAkp-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;span style=&quot;font-style: italic;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;reapy&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" treeRoot="1" id="yyPlnn2RpIudn9ofHAkp-60">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};strokeColor=#36393d;fontFamily=Courier New;fontSize=14;fillColor=#eeeeee;" vertex="1" parent="1">
+            <mxGeometry x="648.75" y="320" width="212.5" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="yyPlnn2RpIudn9ofHAkp-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;strokeWidth=1;fontSize=17;" edge="1" parent="1" source="yyPlnn2RpIudn9ofHAkp-61" target="yyPlnn2RpIudn9ofHAkp-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;span style=&quot;font-style: italic; font-weight: 700; font-size: 17px;&quot;&gt;EnvelopeLocal.py&lt;/span&gt;" treeRoot="1" id="yyPlnn2RpIudn9ofHAkp-61">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};strokeColor=#999999;fontFamily=Courier New;fontSize=17;" vertex="1" parent="1">
+            <mxGeometry x="648.75" y="420" width="212.5" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="yyPlnn2RpIudn9ofHAkp-66" value="" style="endArrow=none;html=1;rounded=0;fontSize=17;strokeWidth=1;exitX=1.002;exitY=0.398;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.001;entryY=0.398;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;strokeColor=#999999;" edge="1" parent="1" source="yyPlnn2RpIudn9ofHAkp-65" target="yyPlnn2RpIudn9ofHAkp-65">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="310" as="sourcePoint" />
+            <mxPoint x="750" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yyPlnn2RpIudn9ofHAkp-67" value="" style="endArrow=none;html=1;rounded=0;fontSize=17;strokeWidth=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;dashed=1;strokeColor=#999999;" edge="1" parent="1" source="yyPlnn2RpIudn9ofHAkp-65" target="yyPlnn2RpIudn9ofHAkp-65">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="310" as="sourcePoint" />
+            <mxPoint x="750" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yyPlnn2RpIudn9ofHAkp-68" value="" style="endArrow=none;html=1;rounded=0;fontSize=17;strokeWidth=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;dashed=1;strokeColor=#999999;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="920" y="540" as="sourcePoint" />
+            <mxPoint x="920" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
