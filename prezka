@@ -1,1 +1,78 @@
-<mxfile host="app.diagrams.net" modified="2022-07-17T11:34:27.675Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.0.4" etag="KM6lrAnv8-sDmwSVA51K" type="github"><diagram id="Pcid-8aRexl6otvSeHxn">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-17T14:57:37.040Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="QCVCS9O_Vd-jmpyyJssz" version="20.0.4" type="github">
+  <diagram id="Pcid-8aRexl6otvSeHxn" name="Page-1">
+    <mxGraphModel dx="1185" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2EAjsYLHvTTZIE30s9W--40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=14;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#999999;strokeWidth=1;" edge="1" parent="1" target="2EAjsYLHvTTZIE30s9W--38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="440" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2EAjsYLHvTTZIE30s9W--36" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;fontFamily=Verdana;fontSize=14;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="540" y="390" width="430" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="2EAjsYLHvTTZIE30s9W--37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=14;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#999999;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="755" y="290" as="sourcePoint" />
+            <mxPoint x="755" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="755" y="300" />
+              <mxPoint x="755" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2EAjsYLHvTTZIE30s9W--34" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;fontFamily=Verdana;fontSize=14;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="580" y="160" width="390" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2EAjsYLHvTTZIE30s9W--4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://logos-world.net/wp-content/uploads/2021/03/Oculus-VR-Logo-2015-2021.png;" vertex="1" parent="1">
+          <mxGeometry x="130" y="165" width="195.23" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="2EAjsYLHvTTZIE30s9W--7" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://mir-s3-cdn-cf.behance.net/project_modules/disp/85278a61145661.5a655358da1dd.png;" vertex="1" parent="1">
+          <mxGeometry x="450" y="175" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="2EAjsYLHvTTZIE30s9W--10" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Verdana&quot;&gt;uruchomienie &lt;b style=&quot;&quot;&gt;skryptu konsolowego&lt;/b&gt; &lt;br&gt;z odpowiednimi &lt;b style=&quot;&quot;&gt;argumentami&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="763.14" y="195" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2EAjsYLHvTTZIE30s9W--35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Verdana;fontSize=14;endArrow=classic;endFill=1;strokeColor=#999999;strokeWidth=1;dashed=1;" edge="1" parent="1" target="2EAjsYLHvTTZIE30s9W--28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="810" y="445" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="780" y="445" />
+              <mxPoint x="780" y="445" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2EAjsYLHvTTZIE30s9W--15" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.python.org/static/community_logos/python-logo-generic.svg;" vertex="1" parent="1">
+          <mxGeometry x="820" y="427.5" width="118.5" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="2EAjsYLHvTTZIE30s9W--31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.008;entryY=0.411;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Verdana;fontSize=14;strokeWidth=1;strokeColor=#999999;dashed=1;" edge="1" parent="1" target="2EAjsYLHvTTZIE30s9W--10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="220" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2EAjsYLHvTTZIE30s9W--16" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png;" vertex="1" parent="1">
+          <mxGeometry x="596.6" y="190" width="53.4" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2EAjsYLHvTTZIE30s9W--19" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://millennialmind.co/wp-content/uploads/2019/05/reaper.png;fontFamily=Courier New;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="160" y="380" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2EAjsYLHvTTZIE30s9W--27" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Courier New;fontSize=18;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#999999;" edge="1" parent="1" source="2EAjsYLHvTTZIE30s9W--4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="210" as="sourcePoint" />
+            <mxPoint x="440" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2EAjsYLHvTTZIE30s9W--28" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Verdana&quot;&gt;nadpisanie i uruchomienie zewnętrznej biblioteki &lt;i style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;reapy&lt;/b&gt;&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="415" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2EAjsYLHvTTZIE30s9W--39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=14;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#999999;strokeWidth=1;" edge="1" parent="1" source="2EAjsYLHvTTZIE30s9W--38" target="2EAjsYLHvTTZIE30s9W--19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2EAjsYLHvTTZIE30s9W--38" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;ReaScript&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="410" width="110" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
